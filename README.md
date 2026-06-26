@@ -40,7 +40,7 @@ Add new contacts with:
 - Lists
 - Nested dictionaries
 - Input validation
-- String methods (upper(), lower(), title(), capitalize())
+- String methods 
 
 ## Tools Used
 
